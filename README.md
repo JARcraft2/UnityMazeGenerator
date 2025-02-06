@@ -1,6 +1,6 @@
 # UnityMazeGenerator
 Converts a 2D image to a 3D maze in Unity.
-Requies Pro-Builder!
+Requires Pro-Builder!
 
 <img width="823" alt="Generated Maze" src="https://github.com/user-attachments/assets/3f3d5763-40b3-4abd-8e6b-5e19221bce83">
 
